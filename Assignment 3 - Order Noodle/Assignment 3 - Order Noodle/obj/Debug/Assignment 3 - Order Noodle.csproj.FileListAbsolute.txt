@@ -1,0 +1,10 @@
+D:\Visual studio 2017 projects\Assignment 3 - Order Noodle\Assignment 3 - Order Noodle\bin\Debug\Assignment 3 - Order Noodle.exe.config
+D:\Visual studio 2017 projects\Assignment 3 - Order Noodle\Assignment 3 - Order Noodle\bin\Debug\Assignment 3 - Order Noodle.exe
+D:\Visual studio 2017 projects\Assignment 3 - Order Noodle\Assignment 3 - Order Noodle\bin\Debug\Assignment 3 - Order Noodle.pdb
+D:\Visual studio 2017 projects\Assignment 3 - Order Noodle\Assignment 3 - Order Noodle\obj\Debug\Assignment_3___Order_Noodle.Properties.Resources.resources
+D:\Visual studio 2017 projects\Assignment 3 - Order Noodle\Assignment 3 - Order Noodle\obj\Debug\Assignment 3 - Order Noodle.csproj.GenerateResource.Cache
+D:\Visual studio 2017 projects\Assignment 3 - Order Noodle\Assignment 3 - Order Noodle\obj\Debug\Assignment 3 - Order Noodle.csproj.CoreCompileInputs.cache
+D:\Visual studio 2017 projects\Assignment 3 - Order Noodle\Assignment 3 - Order Noodle\obj\Debug\Assignment 3 - Order Noodle.exe
+D:\Visual studio 2017 projects\Assignment 3 - Order Noodle\Assignment 3 - Order Noodle\obj\Debug\Assignment 3 - Order Noodle.pdb
+D:\Visual studio 2017 projects\Assignment 3 - Order Noodle\Assignment 3 - Order Noodle\obj\Debug\Assignment_3___Order_Noodle.Menu.resources
+D:\Visual studio 2017 projects\Assignment 3 - Order Noodle\Assignment 3 - Order Noodle\obj\Debug\Assignment 3 - Order Noodle.csprojAssemblyReference.cache
